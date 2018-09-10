@@ -16,6 +16,8 @@ module.exports = {
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               maxWidth: 590,
+              wrapperStyle:
+                'border: 5px solid red; margin-left: 0; margin-right: 0;',
             },
           },
         ],
